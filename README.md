@@ -15,7 +15,8 @@ In this repository, you'll find a variety of projects and proof of concepts that
 
 ## Projects
 
-WIP
+Azure Containers Instance 
+1. Basic example .NET example https://github.com/HugoGomezArenas/az-containers-basic-csharp  [a link](https://github.com/HugoGomezArenas/az-containers-basic-csharp)
 
 ## Contributing
 
