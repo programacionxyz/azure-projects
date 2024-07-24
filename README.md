@@ -15,9 +15,14 @@ In this repository, you'll find a variety of projects and proof of concepts that
 
 ## Projects
 
+Azure Virtual Machines
+
+1. [Basic - Linux Virtual Machine Deployment](https://github.com/HugoGomezArenas/az-linuxvm-basic)
+
 Azure Container Instances
-1. [Basic .NET application](https://github.com/HugoGomezArenas/az-containers-basic-csharp)
-2. [Basic Laravel application](https://github.com/HugoGomezArenas/az-containers-basic-laravel)
+
+1. [Basic - .NET application](https://github.com/HugoGomezArenas/az-containers-basic-csharp)
+2. [Basic - Laravel application](https://github.com/HugoGomezArenas/az-containers-basic-laravel)
 
 ## Contributing
 
