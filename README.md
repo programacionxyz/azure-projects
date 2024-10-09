@@ -21,8 +21,9 @@ Azure Virtual Machines
 
 Azure Container Instances
 
-1. [Basic - .NET application](https://github.com/HugoGomezArenas/azure-projects/tree/main/container-instances/az-containers-basic-csharp)
+1. [Basic - .NET API](https://github.com/HugoGomezArenas/azure-projects/tree/main/container-instances/az-containers-basic-csharp)
 2. [Basic - Laravel application](https://github.com/HugoGomezArenas/azure-projects/tree/main/container-instances/az-containers-basic-laravel)
+3. [Basic - Ktor API](https://github.com/programacionxyz/azure-projects/tree/main/container-instances/az-containers-basic-ktor)
 
 ## Contributing
 
