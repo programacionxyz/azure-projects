@@ -15,9 +15,9 @@ else
     exit
 fi
 
-cd Azure.Containers.WebApi.HelloWorld
-dotnet publish
-cd .. 
+SCRIPT_DIR=$(dirname "$0")
+
+
 
 echo "Variable values "
 echo ""
@@ -37,7 +37,9 @@ az acr create --resource-group $AZ_RESOURCE_GROUP --name $AZ_CONTAINER_REGISTRY 
 az acr update -n $AZ_CONTAINER_REGISTRY --admin-enabled true
 
 # Create the image
-cd Azure.Containers.WebApi.HelloWorld
+# cd ../Azure.Containers.WebApi.HelloWorld
+cd "$SCRIPT_DIR/../Azure.Containers.WebApi.HelloWorld"
+dotnet publish
 docker buildx build --no-cache --platform linux/amd64 -t "${AZ_CONTAINER_REGISTRY}.azurecr.io/${AZ_CONTAINER_NAME}" .
 
 # Login and pusing the image to the Azure Container Registry
