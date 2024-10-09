@@ -7,7 +7,7 @@ Welcome to my Azure Projects repository! This repository serves as an example of
 This guide will walk you through deploying the Container Instances using the scripts. Additionally, this repository is part of an initiative where I am compiling a series of projects and proof of concepts. These resources are intended to serve as practical examples and references for anyone interested in learning Azure.
 
 To explore other projects and concepts within this initiative, please visit the repository index:
-[https://github.com/HugoGomezArenas/azure-projects](https://github.com/HugoGomezArenas/azure-projects)
+[https://github.com/programacionxyz/azure-projects](https://github.com/programacionxyz/azure-projects)
 
 ## Prerequisites
 
