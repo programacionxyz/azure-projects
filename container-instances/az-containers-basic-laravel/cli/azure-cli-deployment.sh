@@ -15,6 +15,8 @@ else
     exit
 fi
 
+SCRIPT_DIR=$(dirname "$0")
+
 echo "Variable values "
 echo ""
 echo "AZ_RESOURCE_GROUP     : ${AZ_RESOURCE_GROUP}"
@@ -33,7 +35,7 @@ az acr create --resource-group $AZ_RESOURCE_GROUP --name $AZ_CONTAINER_REGISTRY 
 az acr update -n $AZ_CONTAINER_REGISTRY --admin-enabled true
 
 # Create the image
-cd laravel-app
+cd "$SCRIPT_DIR/../laravel-app"
 docker buildx build --no-cache --platform linux/amd64 -t "${AZ_CONTAINER_REGISTRY}.azurecr.io/${AZ_CONTAINER_NAME}" .
 
 # Login and pusing the image to the Azure Container Registry
@@ -48,4 +50,3 @@ ACR_PASSWORD=$(az acr credential show --name "${AZ_CONTAINER_REGISTRY}.azurecr.i
 az container create --resource-group $AZ_RESOURCE_GROUP --name $AZ_APP_NAME --image "${AZ_CONTAINER_REGISTRY}.azurecr.io/${AZ_CONTAINER_NAME}" --ports 80 --cpu 1 --memory 1  --ip-address public --registry-username $ACR_USERNAME --registry-password $ACR_PASSWORD
 ACR_IP=$(az container show --name $AZ_APP_NAME --resource-group $AZ_RESOURCE_GROUP --query ipAddress.ip --output tsv)
 echo "Done! http://${ACR_IP}/"
-
