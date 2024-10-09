@@ -41,4 +41,4 @@ Run the /cli/azure-cli-deployment.sh script from the command line, ensuring you 
 ### Step 3: Verify the service is running
 
 Once the script execution is done, the service URL will be displayed in the console.
-After opening the URL, you should see a confirmation page or the default API endpoint indicating that the Ktor service is successfully running.
+After opening the URL in the port 8080, you should see a confirmation page or the default API endpoint indicating that the Ktor service is successfully running.
