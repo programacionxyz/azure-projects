@@ -1,6 +1,6 @@
-# Deploying a Linux Virtual Machine in Azure with Terraform
+# Deploying a Ktor API into an Azure Container Instances service
 
-- Welcome to my Azure Projects repository! This repository serves as an example of using Azure CLI scripts to provision a Ktor API into an Azure Container Instances service.
+Welcome to my Azure Projects repository! This repository serves as an example of using Azure CLI scripts to provision a Ktor API into an Azure Container Instances service.
 
 ## Overview
 
