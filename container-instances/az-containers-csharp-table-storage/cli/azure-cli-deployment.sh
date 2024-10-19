@@ -47,7 +47,7 @@ az storage table create --name $AZ_TABLE_NAME --account-name $AZ_STORAGE_ACCOUNT
 AZURE_STORAGE_CONNECTION_STRING=$(az storage account show-connection-string --name $AZ_STORAGE_ACCOUNT --resource-group $AZ_RESOURCE_GROUP --query connectionString --output tsv)
 
 # Create the image
-cd "$SCRIPT_DIR/../Azure.Containers.WebApi.HelloWorld"
+cd "$SCRIPT_DIR/../Azure.Containers.WebApi.TableStorage"
 dotnet publish
 docker buildx build --no-cache --platform linux/amd64 -t "${AZ_CONTAINER_REGISTRY}.azurecr.io/${AZ_CONTAINER_NAME}" .
 

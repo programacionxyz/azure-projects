@@ -1,11 +1,6 @@
-using Azure;
-using Azure.Data.Tables;
-using System;
-using System.Text.Json.Serialization;
-
 namespace Azure.Containers.WebApi.TableStorage.Dto;
 
-public class CityDto
+public class CountryDto
 {
     public string Name { get; set; }
     public string Capital { get; set; }

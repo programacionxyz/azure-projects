@@ -1,14 +1,11 @@
-using Azure;
 using Azure.Data.Tables;
-using System;
-using System.Text.Json.Serialization;
 
 namespace Azure.Containers.WebApi.TableStorage.Entities
 {
 
-    public class City : ITableEntity
+    public class Country: ITableEntity
     {
-        // Required Propertites
+        // Required Properties
         public string PartitionKey { get; set; }
         public string RowKey { get; set; }
         public DateTimeOffset? Timestamp { get; set; }
@@ -19,13 +16,8 @@ namespace Azure.Containers.WebApi.TableStorage.Entities
         public string Capital { get; set; }
         public string Image { get; set; }
 
-        public City() { }
-        public City(string partitionKey, string rowKey)
-        {
-            PartitionKey = partitionKey;
-            RowKey = rowKey;
-        }
-
+        public Country() { }
+        
     }
 }
 
