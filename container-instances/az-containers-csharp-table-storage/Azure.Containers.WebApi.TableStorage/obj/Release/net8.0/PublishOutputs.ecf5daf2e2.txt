@@ -1,0 +1,12 @@
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-basic-csharp/Azure.Containers.WebApi.HelloWorld/bin/Release/net8.0/publish/Azure.Containers.WebApi.HelloWorld
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-basic-csharp/Azure.Containers.WebApi.HelloWorld/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-basic-csharp/Azure.Containers.WebApi.HelloWorld/bin/Release/net8.0/publish/appsettings.json
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-basic-csharp/Azure.Containers.WebApi.HelloWorld/bin/Release/net8.0/publish/Azure.Containers.WebApi.HelloWorld.dll
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-basic-csharp/Azure.Containers.WebApi.HelloWorld/bin/Release/net8.0/publish/Azure.Containers.WebApi.HelloWorld.deps.json
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-basic-csharp/Azure.Containers.WebApi.HelloWorld/bin/Release/net8.0/publish/Azure.Containers.WebApi.HelloWorld.runtimeconfig.json
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-basic-csharp/Azure.Containers.WebApi.HelloWorld/bin/Release/net8.0/publish/Azure.Containers.WebApi.HelloWorld.pdb
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-basic-csharp/Azure.Containers.WebApi.HelloWorld/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-basic-csharp/Azure.Containers.WebApi.HelloWorld/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-basic-csharp/Azure.Containers.WebApi.HelloWorld/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-basic-csharp/Azure.Containers.WebApi.HelloWorld/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-basic-csharp/Azure.Containers.WebApi.HelloWorld/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

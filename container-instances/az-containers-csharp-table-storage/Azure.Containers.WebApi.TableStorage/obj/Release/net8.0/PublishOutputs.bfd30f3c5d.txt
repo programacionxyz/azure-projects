@@ -1,0 +1,17 @@
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-csharp-table-storage/Azure.Containers.WebApi.TableStorage/bin/Release/net8.0/publish/Azure.Containers.WebApi.TableStorage
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-csharp-table-storage/Azure.Containers.WebApi.TableStorage/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-csharp-table-storage/Azure.Containers.WebApi.TableStorage/bin/Release/net8.0/publish/appsettings.json
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-csharp-table-storage/Azure.Containers.WebApi.TableStorage/bin/Release/net8.0/publish/Azure.Containers.WebApi.TableStorage.dll
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-csharp-table-storage/Azure.Containers.WebApi.TableStorage/bin/Release/net8.0/publish/Azure.Containers.WebApi.TableStorage.deps.json
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-csharp-table-storage/Azure.Containers.WebApi.TableStorage/bin/Release/net8.0/publish/Azure.Containers.WebApi.TableStorage.runtimeconfig.json
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-csharp-table-storage/Azure.Containers.WebApi.TableStorage/bin/Release/net8.0/publish/Azure.Containers.WebApi.TableStorage.pdb
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-csharp-table-storage/Azure.Containers.WebApi.TableStorage/bin/Release/net8.0/publish/Azure.Core.dll
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-csharp-table-storage/Azure.Containers.WebApi.TableStorage/bin/Release/net8.0/publish/Azure.Data.Tables.dll
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-csharp-table-storage/Azure.Containers.WebApi.TableStorage/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-csharp-table-storage/Azure.Containers.WebApi.TableStorage/bin/Release/net8.0/publish/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-csharp-table-storage/Azure.Containers.WebApi.TableStorage/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-csharp-table-storage/Azure.Containers.WebApi.TableStorage/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-csharp-table-storage/Azure.Containers.WebApi.TableStorage/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-csharp-table-storage/Azure.Containers.WebApi.TableStorage/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-csharp-table-storage/Azure.Containers.WebApi.TableStorage/bin/Release/net8.0/publish/System.ClientModel.dll
+/Users/hugo/Documents/github/azure-projects/container-instances/az-containers-csharp-table-storage/Azure.Containers.WebApi.TableStorage/bin/Release/net8.0/publish/System.Memory.Data.dll

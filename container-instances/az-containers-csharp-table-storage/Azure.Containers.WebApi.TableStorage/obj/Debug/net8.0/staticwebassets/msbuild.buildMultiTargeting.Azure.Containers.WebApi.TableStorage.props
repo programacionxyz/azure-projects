@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Azure.Containers.WebApi.TableStorage.props" />
+</Project>

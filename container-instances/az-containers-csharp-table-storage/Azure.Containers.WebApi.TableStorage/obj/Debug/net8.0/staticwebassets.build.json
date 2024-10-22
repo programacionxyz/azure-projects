@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dxtqmxwgM1SXUAxhrzzANW1LNZAHdHaSM8OPNqpgzHQ=",
+  "Source": "Azure.Containers.WebApi.TableStorage",
+  "BasePath": "_content/Azure.Containers.WebApi.TableStorage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

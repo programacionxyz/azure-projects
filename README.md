@@ -2,6 +2,10 @@
 
 Welcome to my repository! Here you'll find a collection of projects and proof of concepts related to Azure. The purpose of this README is to serve as an index for various Azure-related topics. These projects and proofs of concept can be used as examples for those getting started with Azure cloud computing, and they also serve as a portfolio for my future endeavors.
 
+![Youtube Intro (Spanish)](docs/images/youtube-intro.png)
+
+[Youtube Intro (Spanish)](https://www.youtube.com/watch?v=UFvrAxVhuAE)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -24,6 +28,7 @@ Azure Container Instances
 1. [Basic - .NET API](https://github.com/HugoGomezArenas/azure-projects/tree/main/container-instances/az-containers-basic-csharp)
 2. [Basic - Laravel application](https://github.com/HugoGomezArenas/azure-projects/tree/main/container-instances/az-containers-basic-laravel)
 3. [Basic - Ktor API](https://github.com/programacionxyz/azure-projects/tree/main/container-instances/az-containers-basic-ktor)
+4. [Basic - .NET API + Azure Storage Table](https://github.com/programacionxyz/azure-projects/tree/main/container-instances/az-containers-csharp-table-storage)
 
 ## Contributing
 
