@@ -48,7 +48,6 @@ AZURE_STORAGE_CONNECTION_STRING=$(az storage account show-connection-string --na
 
 # Create the image
 cd "$SCRIPT_DIR/../Azure.Containers.WebApi.TableStorage"
-dotnet publish
 docker buildx build --no-cache --platform linux/amd64 -t "${AZ_CONTAINER_REGISTRY}.azurecr.io/${AZ_CONTAINER_NAME}" .
 
 # Login and push the image to the Azure Container Registry
