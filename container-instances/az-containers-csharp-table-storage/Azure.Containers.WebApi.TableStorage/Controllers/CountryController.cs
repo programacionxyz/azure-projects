@@ -31,14 +31,14 @@ public class CountryController : ControllerBase
     [HttpGet]
     public async Task<ActionResult<IEnumerable<Country>>> GetCountries()
     {
-        var cities = new List<Country>();
+        var countries = new List<Country>();
 
-        await foreach (var city in _tableClient.QueryAsync<Country>())
+        await foreach (var country in _tableClient.QueryAsync<Country>())
         {
-            cities.Add(city);
+            countries.Add(country);
         }
 
-        return Ok(cities);
+        return Ok(countries);
     }
 
     // POST: api/City
